@@ -31,6 +31,11 @@ h1 {
 .filter {
   width: 100%;
   padding: 12px;
+  color: #777;
+}
+
+.filter:focus {
+  outline: none;
 }
 
 .post {
